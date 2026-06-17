@@ -37,9 +37,10 @@ proving the pipeline's stability against class imbalance.
 
 - *Key Insight*
 
-- Vehicle safety,Cost,and Capacity play significant roles in determined the overall car
+- Vehicle safety,Cost,and Capacity play significant roles in determining the overall car
 - acceptability,making the dataset a valueble resource for classification and predictive
 - modeling
 - 
 AUTHOR
+
 Nwajiaku Chika
